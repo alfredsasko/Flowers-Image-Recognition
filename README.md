@@ -1,7 +1,3 @@
-
-In this project, students first develop code for an image classifier built with PyTorch, then convert it into a command-line application.
-"# flowers_calssifier" 
-
 # Flower Image Recognition
 
 ### Table of Contents
