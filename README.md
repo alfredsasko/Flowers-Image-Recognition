@@ -63,7 +63,7 @@ There are additional files:
  ```
  prdict.py --image_dir "/image/directory" --load_dir "/model/directory" --top_k 5 --category_names "Mapping/to/category/names.json"
  ```
- -`model.py` Module for classes and functions related to neural network design, initialization and training
+ - `model.py` Module for classes and functions related to neural network design, initialization and training
  
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
